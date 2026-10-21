@@ -20,5 +20,5 @@ The project aims to investigate sensor fusion methods for robotic arm manipulati
 ## Project Status
 Planning and topic selection.
 
-## Team Members
-To be confirmed.
+## Project Type
+Individual Project
