@@ -1,4 +1,4 @@
-# ADL Manipulation Assistant – Sensor Fusion
+# Sensor Fusion-Based End-Effector Position Estimation and Control of an Assistive Robotic Arm
 
 ## Project Overview
 This project is part of the Case Study: Assistive Robotics for Improvement of Life Quality.
