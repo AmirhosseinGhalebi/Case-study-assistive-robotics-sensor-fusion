@@ -1,24 +1,27 @@
-# Sensor Fusion-Based End-Effector Position Estimation and Control of an Assistive Robotic Arm
+# MLP-Based Sensor Fusion for Accurate End-Effector Positioning in Assistive Robotic Manipulation
 
 ## Project Overview
 This project is part of the Case Study: Assistive Robotics for Improvement of Life Quality.
 
-The project aims to investigate sensor fusion methods for robotic arm manipulation to support activities of daily living (ADL).
+The project aims to investigate machine learning-based sensor fusion methods to improve end-effector position estimation and control of an assistive robotic arm for activities of daily living (ADL).
 
 ## Objectives
-- Explore sensor fusion methods for assistive robotic arms.
-- Develop a Python-based robotic simulation.
-- Investigate object detection and localization using multiple sensor inputs.
-- Evaluate the accuracy and performance of the proposed approach.
+- Explore machine learning-based sensor fusion using a Multi-Layer Perceptron (MLP) neural network.
+- Develop a Python-based robotic arm simulation.
+- Combine joint encoder measurements and simulated RGB-D camera measurements for end-effector position estimation.
+- Implement end-effector position control using the fused position estimates.
+- Evaluate positioning accuracy and performance by comparing MLP-based fusion with single-sensor and conventional weighted-fusion methods.
 
 ## Proposed Technologies
 - Python
-- Robotics simulation (to be determined)
-- Sensor fusion algorithms
+- PyBullet for robotic simulation
+- Joint encoders and simulated RGB-D camera measurements
+- Multi-Layer Perceptron (MLP) for sensor fusion
+- Scikit-learn, NumPy, and Matplotlib
 - Git and GitHub
 
 ## Project Status
-Planning and topic selection.
+Planning and methodology development.
 
 ## Project Type
 Individual Project
